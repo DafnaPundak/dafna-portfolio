@@ -1,21 +1,19 @@
 <template>
-    <section class="content-wrapper hero">
-      <h1>My CV</h1>
-      <iframe 
-        src="Dafna_Pundak_CV.pdf" 
-        class="cv-iframe" 
-        frameborder="0" 
-        scrolling="auto">
-      </iframe>
-    </section>
+  <section class="content-wrapper hero">
+    <h1>My CV</h1>
+    <iframe
+      src="Dafna_Pundak_CV.pdf"
+      class="cv-iframe"
+      frameborder="0"
+      scrolling="auto"
+    >
+    </iframe>
+  </section>
 </template>
 
 <style scoped>
 .hero {
-  text-align: center;
-  padding: 20px;
-  position: relative;
-  align-self: normal;
+  margin: auto;
 }
 
 .cv-iframe {

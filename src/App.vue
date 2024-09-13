@@ -105,13 +105,14 @@ body {
   background-size: 200px 200px;
   background-repeat: repeat;
   background-position: center;
+  padding: 5vh
 
 }
 
 .content-wrapper {
   width: 80%;
   max-width: 1000px;
-  margin: 0 auto;
+  margin: auto auto;
   padding: 40px;
   background: rgba(255, 255, 255, 0.95);
   border-radius: 8px;

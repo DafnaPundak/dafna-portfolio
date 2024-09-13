@@ -53,9 +53,8 @@ export default {
 </script>
 
 <style scoped>
-.content-wrapper{
-  margin-top: 80vh;
-
+.hero{
+  margin:auto
 }
 
 .project-grid {
