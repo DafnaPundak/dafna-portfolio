@@ -1,4 +1,5 @@
 # dafna-portfolio
+Explore a dynamic portfolio showcasing my latest projects, built with Vue.js and integrated with GitHub. This responsive and visually appealing site prioritizes projects with both live links and GitHub repositories, highlighting my full-stack development skills and passion for creating impactful web experiences
 
 ## Project setup
 ```

@@ -1,0 +1,15 @@
+[
+    {
+      "title": "AudITech SaaS Solution",
+      "description": "Developed the frontend and backend of AudITech's SaaS solution.",
+      "technologies": ["Vue.js", "Python", "AWS"],
+      "link": "#"
+    },
+    {
+      "title": "Intelos System",
+      "description": "Created interactive data visualizations on geographical maps.",
+      "technologies": ["Vue.js", "Mapbox"],
+      "link": "#"
+    }
+  ]
+  
